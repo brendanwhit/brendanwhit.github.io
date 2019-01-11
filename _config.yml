@@ -1,0 +1,13 @@
+title: My Work
+author: Brendan Whitney
+email: bwhitne1@uvm.edu
+description: > # this means ignore newlines until "baseurl"
+    Collection of my projects completed for school and personal enjoyment
+
+# social links
+github_username: brendanwhit
+linkedin_username: brendan-whitney-6a57a712b
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
