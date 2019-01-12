@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Projects
 ---
 
-# School Projects
+## School Projects
 
 ___
 
