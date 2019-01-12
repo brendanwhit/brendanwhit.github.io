@@ -48,6 +48,7 @@ _Camp Director_
 _Camp Counselor_
 + Summer 2011 - Summer 2015
 + Cared for and supervised children during the day
++ Communicated effectively with other counselors
 
 _Customer Service Rep_
 + September 2012 - Summer 2016
