@@ -6,7 +6,7 @@ title: Projects
 
 ___
 
-[### Data Science 2 Project](http://www.cutenessoverflow.com/wp-content/uploads/2014/02/Little-Cute-Puppy-1600x1200.jpg)
+[***Data Science 2 Project***](http://www.cutenessoverflow.com/wp-content/uploads/2014/02/Little-Cute-Puppy-1600x1200.jpg)
 
 (insert abstract here)
 
