@@ -1,15 +1,8 @@
----
-layout: page
-title: Resume
----
 Here's a link to a PDF of [my resume](/docs/resume_12232018.pdf)
-
 ___
-
 ## Education
 
 **University of Vermont**
-
 _Master of Science in Complex Systems and Data Science_
 + December 2018
 + 3.78 GPA
@@ -20,13 +13,9 @@ _Bachelor of Science in Pure Mathematics_
 + 3.86 GPA
 + Additional Coursework: Survival Analysis, Multivariate Analysis
 + Honors College Scholar, Cum Laude
-
 ___
-
 ## Work Experience
-
 **Wilderness Adventures**, Jackson Hole, WY
-
 _Team Leader_
 + Summer 2018
 + Responsible for proper training of all trip leaders
@@ -40,7 +29,6 @@ _Trip Leader_
 situations
 
 **Hingham Recreation Department**, Hingham, MA
-
 _Camp Director_
 + Summer 2016
 + Programmed daily camp activities
@@ -56,15 +44,12 @@ _Customer Service Rep_
 + Ensured the successful completion of various events
 
 **UVM Honors College**, Burlinton, VT
-
 _Honors College Peer Mentor_
 + January 2015 - December 2016
 + Provided support for freshmen transitioning to college
 + Planned events, by myself and with other mentors, for honors college dormitory
 residents
-
 ___
-
 ## Activities and Interests
 + Computational Story Lab, UVM Complex Systems Center (2016-2018)
 + TREK Leader, UVM Student Life (2015-2018)
