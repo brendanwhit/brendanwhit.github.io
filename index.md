@@ -31,3 +31,17 @@ ___
 For Lu
 
 ___
+
+## [Detecting Shocking Events on Twitter](https://brendanwhit.github.io/pocs-final-project/)
+
+_I decided to look into the "shocking'' events on Twitter to analyze what
+types of events are talked about more than usual for a period of time.
+Analysis of this phenomenon can give insights into the cycle of information
+on social media platforms,
+and the collective "memory'' regarding certain events.
+My aims were to characterize the most shocking words of 2018,
+and then extract out the stories surrounding the sudden rise of a certain word.
+The data comes from the daily rank plots for the top 100000 words
+curated by Josh Minot from the Twitter Decahose for analysis._
+
+___
