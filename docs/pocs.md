@@ -1,6 +1,7 @@
 ---
 title: Detecting Shocking Events on Twitter
 author: Brendan Whitney
+description: Completed project for my Principles of Complex Systems class Fall 2018
 ---
 ## Or More Accurately Discovering Emergence of Words
 
