@@ -32,7 +32,7 @@ For Lu
 
 ___
 
-## [Detecting Shocking Events on Twitter](docs/pocs.md)
+## [Detecting Shocking Events on Twitter](brendanwhit.github.io/pocs-final-project/)
 
 _I decided to look into the "shocking'' events on Twitter to analyze what
 types of events are talked about more than usual for a period of time.
