@@ -18,6 +18,11 @@ behind a computer.
 While the connect might be difficult to see at first glance,
 I benefit most from being active.
 This is where my love of Data Science fits in because difficult problems allow
-for my mind to be active while attempting to solve them.
+for my mind to be active.
+My particular interest in Data Science focuses on the problem of communicating
+difficult concepts in terms that most people can understand.
+A large aspect of this problem revolves around simple, informative
+visualizations, which is like a fun combination of math and art.
+I love it.
 The possibilities unlocked by Data Science fascinate me greatly,
 and I am beyond excited to see the future progression of this realm.
