@@ -6,7 +6,7 @@ title: Projects
 
 ___
 
-## [Predicting Baseball Game Outcomes](https://brendanwhit.github.io/ds1-final-project/)
+## [Predicting Baseball Game Outcomes](ds1-final-project/)
 
 _This paper attempts to build a regression model to predict the winner of 
 baseball games for the 2018 MLB season.
@@ -32,7 +32,7 @@ For Lu
 
 ___
 
-## [Detecting Shocking Events on Twitter](brendanwhit.github.io/pocs-final-project/)
+## [Detecting Shocking Events on Twitter](pocs-final-project/)
 
 _I decided to look into the "shocking'' events on Twitter to analyze what
 types of events are talked about more than usual for a period of time.
