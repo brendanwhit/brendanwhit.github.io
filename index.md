@@ -26,8 +26,8 @@ the team with the highest win percentange or Pythagorean score._
 
 ___
 
-[***Modeling Complex Systems Project***](http://www.cutenessoverflow.com/wp-content/uploads/2014/02/Little-Cute-Puppy-1600x1200.jpg)
+## [Modeling Complex Systems Project](http://www.cutenessoverflow.com/wp-content/uploads/2014/02/Little-Cute-Puppy-1600x1200.jpg)
 
-(insert abstract here)
+For Lu
 
 ___
