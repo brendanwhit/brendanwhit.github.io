@@ -26,9 +26,21 @@ the team with the highest win percentange or Pythagorean score._
 
 ___
 
-## [Modeling Complex Systems Project](http://www.cutenessoverflow.com/wp-content/uploads/2014/02/Little-Cute-Puppy-1600x1200.jpg)
+## [Modeling the Effectiveness of British Columbia Fire Control](MoCS-final-project/)
 
-For Lu
+_Forest fires are destructive events that can decimate towns,
+destroy roads,
+and can be very costly.
+Understanding and developing best practices to minimize the impact of forest 
+fires on man-made communities
+and infrastructure is of paramount importance in threat of increasing forest
+fire potential driven by climate change[1].
+Using the British Columbia Wildland Fire Management Strategy 
+(WFMS)[2] as a guideline,
+we created a model of best practice fire risk reduction techniques.
+The model used multiple strategies and combinations of budget constraints to 
+analyze the most effective combination of strategies to handle three different
+wind scenarios._
 
 ___
 
