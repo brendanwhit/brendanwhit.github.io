@@ -2,6 +2,8 @@
 title: About Me
 ---
 
+![Headshot](headshot.jpg)
+
 Hi there, glad you made it to my website.
 Looks like you found the page where I tell you a little about myself.
 My name is Brendan Whitney and I am an avid outdoor enthusiast.
